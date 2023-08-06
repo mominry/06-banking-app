@@ -1,13 +1,15 @@
 const Transaction = require("./Transaction")
 
 
-class Passbook
-{
-    constructor()
-    {
-        this.transactions=[]
-        
+class Passbook {
+    constructor() {
+        this.transactions = []
+
     }
+
+   
 }
 
-module.exports= Passbook
+
+
+module.exports = Passbook
